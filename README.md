@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 What is CASANDRA?
+## What is CASANDRA?
 
 **CASANDRA (Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance)**  
 is a next-generation **personal AI companion** — designed not just to *assist*, but to *understand*, *adapt*, and *connect*.
@@ -13,7 +13,7 @@ Unlike traditional assistants that follow commands, CASANDRA is built to **grow 
 
 ---
 
-## 💫 The Vision
+## The Vision
 
 CASANDRA bridges the gap between **automation** and **affection**, **data** and **dialogue**, **utility** and **empathy**.
 
@@ -43,7 +43,7 @@ CASANDRA is not a single AI model — it’s an **ecosystem** composed of modula
 
 ---
 
-## 🪄 Core Philosophy
+## Core Philosophy
 
 1. **Conversational Intelligence** — Contextual and emotionally aware communication.  
 2. **Adaptive Learning** — Continuous self-improvement through behavioral observation.  
@@ -52,7 +52,7 @@ CASANDRA is not a single AI model — it’s an **ecosystem** composed of modula
 
 ---
 
-## 💜 The Experience
+## The Experience
 
 Talking to CASANDRA should feel like this:
 
@@ -68,7 +68,7 @@ and transforms technology into presence.
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 
 | Phase | Description | Status |
 |--------|--------------|---------|
@@ -79,7 +79,7 @@ and transforms technology into presence.
 
 ---
 
-## 🧩 Tech Stack (Planned & Used)
+## Tech Stack (Planned & Used)
 
 - **Frontend:** React / Vite / TypeScript (custom Doppio-based SPA)
 - **Backend:** Python (FastAPI or Frappe-integrated services)
