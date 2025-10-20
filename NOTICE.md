@@ -1,4 +1,6 @@
-Legal Notice
+---
+
+### Legal Notice
 
 © 2025 Saif Mohammed Godah. All rights reserved.  
 CASANDRA (Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance) is a proprietary concept and software system developed by Saif Mohammed Godah.  
