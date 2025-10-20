@@ -104,8 +104,12 @@ and transforms technology into presence.
 
 ---
 
-## 📜 License and NOTICE
+## 📜 LICENSE and NOTICE
 
+This project is licensed under a **[Custom Proprietary License](LICENSE.md)**.  
+See the **[NOTICE](NOTICE.md)** file for acknowledgments and references to third-party open-source components.
+
+© 2025 Saif Mohammed Godah. All rights reserved.
 
 
 ---
