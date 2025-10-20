@@ -1,5 +1,5 @@
 # 🌌 CASANDRA — Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
-![CASANDRA Banner](images/CASANDRA.png)
+![CASANDRA Banner](images/AI.png)
 > “CASANDRA isn’t just built to *serve* you — she’s built to *understand* you.”
 
 ---
