@@ -1,5 +1,3 @@
----
-
 ### Legal Notice
 
 © 2025 Saif Mohammed Godah. All rights reserved.  
