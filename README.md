@@ -1,4 +1,8 @@
 # 🌌 CASANDRA — Conversational Artificial System for Adaptive Neural Dialogue & Relationship Assistance
+© 2025 Saif Mohammed Godah.
+Licensed under the MIT License.
+Core components of CASANDRA remain proprietary.
+
 ![CASANDRA Banner](images/AI.png)
 > “CASANDRA isn’t just built to *serve* you — she’s built to *understand* you.”
 
@@ -28,18 +32,18 @@ That’s **CASANDRA**.
 
 ---
 
-## ⚙️ System Architecture Overview
+## System Architecture Overview
 
 CASANDRA is not a single AI model — it’s an **ecosystem** composed of modular layers that work together:
 
 | Layer | Description |
 |-------|--------------|
-| 🗣️ **Conversational Core** | Dialogue engine that interprets natural language and emotional tone. |
-| 💾 **Memory Engine** | Long-term contextual memory using vector embeddings and semantic recall. |
-| 🪄 **Automation Hub** | Connects to external APIs (Google, Trello, n8n, Frappe ERP, etc.) for real-world actions. |
-| 🧩 **Reasoning Layer** | Task planner that breaks goals into structured, executable steps. |
-| 🎭 **Personality Module** | Defines CASANDRA’s tone, humor, and emotional expressiveness. |
-| 🌐 **Interface Layer** | Text, voice, and avatar interfaces (AR/VR & robotics planned). |
+|  **Conversational Core** | Dialogue engine that interprets natural language and emotional tone. |
+|  **Memory Engine** | Long-term contextual memory using vector embeddings and semantic recall. |
+|  **Automation Hub** | Connects to external APIs (Google, Trello, n8n, Frappe ERP, etc.) for real-world actions. |
+|  **Reasoning Layer** | Task planner that breaks goals into structured, executable steps. |
+|  **Personality Module** | Defines CASANDRA’s tone, humor, and emotional expressiveness. |
+|  **Interface Layer** | Text, voice, and avatar interfaces (AR/VR & robotics planned). |
 
 ---
 
@@ -72,10 +76,10 @@ and transforms technology into presence.
 
 | Phase | Description | Status |
 |--------|--------------|---------|
-| **1. Core Assistant** | Text + voice interface, automation commands, API hub | 🟢 In Development |
-| **2. Memory & Personality** | Long-term memory, adaptive tone, mood understanding | ⏳ Planned |
-| **3. Relationship Layer** | User profiling, daily routine prediction, emotion tracking | 🔜 Concept |
-| **4. Embodied Presence** | Visual avatar or robotic embodiment | ⚪ Future Vision |
+| **1. Core Assistant** | Text + voice interface, automation commands, API hub | In Development |
+| **2. Memory & Personality** | Long-term memory, adaptive tone, mood understanding | Planned |
+| **3. Relationship Layer** | User profiling, daily routine prediction, emotion tracking | Concept |
+| **4. Embodied Presence** | Visual avatar or robotic embodiment | Future Vision |
 
 ---
 
@@ -91,35 +95,22 @@ and transforms technology into presence.
 
 ---
 
-## 🧭 Project Goals
+## Project Goals
 
-- 🧠 Build a scalable and extensible architecture for conversational agents.  
-- 💬 Create meaningful, emotionally resonant dialogues with persistent context.  
-- ⚙️ Automate real-life workflows through natural commands.  
-- 🪞 Design a human-like presence — digital, emotional, and responsive.  
-
----
-
-## 🤝 Contributing
-
-CASANDRA is a long-term vision project.  
-Contributions, ideas, or collaborations are welcome once the core framework stabilizes.
-
-If you’re interested:
-1. Fork this repo  
-2. Create a new branch (`feature/your-feature-name`)  
-3. Commit your changes  
-4. Submit a pull request  
+-  Build a scalable and extensible architecture for conversational agents.  
+-  Create meaningful, emotionally resonant dialogues with persistent context.  
+-  Automate real-life workflows through natural commands.  
+-  Design a human-like presence — digital, emotional, and responsive.  
 
 ---
 
-## 📜 License
+## 📜 License and NOTICE
 
-This project is licensed under the **MIT License** — open, free, and made to grow with the community.
+
 
 ---
 
-## 💬 In Simple Words
+## In Simple Words
 
 > **CASANDRA isn’t just a system that does things for you —
 >  it’s one that learns to be with you.**  
@@ -129,7 +120,7 @@ This project is licensed under the **MIT License** — open, free, and made to g
 
 ---
 
-### 🪶 Author
+### Author
 
 **Saif Mohammed Godah aka Syn-Zero**  
 AI & Automation Developer | Visionary behind CASANDRA  
